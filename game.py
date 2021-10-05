@@ -1,15 +1,3 @@
-# import random
-
-# name = input('hello, whats your name?')
-# print(name, "I'm thinking of a number between 1 and 100."
-# "try to guess my number")
-# guess = input(random.randint (1, 100))
-# while True
-#     response = input()
-#     if response == 13:
-#         return ('well done, jessica! you found my number!')
-
-# i need to do the infinite loop and the if else statements
 import random
 name = input('Greetings, what is your name?')
 def number_guessing_game(low, high):
